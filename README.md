@@ -1,1 +1,2 @@
-Memo for the vim editor learning
+Memos for the vim editor learning
+===========
