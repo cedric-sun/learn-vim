@@ -1,0 +1,6 @@
+# Summary
+- A buffer is the in-memory text of a file.
+- A window is a viewport on a buffer.
+- A tab page is a collection of windows.
+
+from: `:help window`
